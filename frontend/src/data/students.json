@@ -1,0 +1,98 @@
+[
+  {
+    "studentId": "STU101",
+    "name": "Rahul Sharma",
+    "email": "rahul@gmail.com",
+    "age": 20,
+    "math": 90,
+    "science": 85,
+    "english": 88,
+    "computer": 95,
+    "attendance": 92,
+    "status": "Active"
+  },
+  {
+    "studentId": "STU102",
+    "name": "Alex Johnson",
+    "email": "alex@gmail.com",
+    "age": 21,
+    "math": 78,
+    "science": 92,
+    "english": 75,
+    "computer": 88,
+    "attendance": 85,
+    "status": "Active"
+  },
+  {
+    "studentId": "STU103",
+    "name": "Priya Patel",
+    "email": "priya@gmail.com",
+    "age": 19,
+    "math": 95,
+    "science": 89,
+    "english": 91,
+    "computer": 97,
+    "attendance": 98,
+    "status": "Active"
+  },
+  {
+    "studentId": "STU104",
+    "name": "John Smith",
+    "email": "john@gmail.com",
+    "age": 22,
+    "math": 72,
+    "science": 68,
+    "english": 80,
+    "computer": 76,
+    "attendance": 75,
+    "status": "Inactive"
+  },
+  {
+    "studentId": "STU105",
+    "name": "Maria Garcia",
+    "email": "maria@gmail.com",
+    "age": 20,
+    "math": 88,
+    "science": 84,
+    "english": 92,
+    "computer": 86,
+    "attendance": 90,
+    "status": "Active"
+  },
+  {
+    "studentId": "STU106",
+    "name": "Arjun Mehta",
+    "email": "arjun@gmail.com",
+    "age": 21,
+    "math": 65,
+    "science": 70,
+    "english": 72,
+    "computer": 68,
+    "attendance": 70,
+    "status": "Active"
+  },
+  {
+    "studentId": "STU107",
+    "name": "Sarah Lee",
+    "email": "sarah@gmail.com",
+    "age": 20,
+    "math": 93,
+    "science": 88,
+    "english": 95,
+    "computer": 91,
+    "attendance": 96,
+    "status": "Active"
+  },
+  {
+    "studentId": "STU108",
+    "name": "Omar Hassan",
+    "email": "omar@gmail.com",
+    "age": 23,
+    "math": 82,
+    "science": 79,
+    "english": 85,
+    "computer": 83,
+    "attendance": 88,
+    "status": "Inactive"
+  }
+]
